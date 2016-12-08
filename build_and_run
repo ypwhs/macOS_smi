@@ -1,0 +1,1 @@
+nvcc deviceQuery.cpp -o smi && ./smi
